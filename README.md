@@ -31,9 +31,6 @@ git clone https://github.com/Dhineia/cloudtasker-employee-system.git
 # Open in IntelliJ and run
 ./mvnw spring-boot:run
 
-Make sure your application.properties points to your RDS instance.
-
 💡 Lessons Learned
-- Navigated IAM permissions and AWS billing traps like a pro
+- Navigated IAM permissions and AWS billing traps
 - Debugged stubborn VPC and NAT Gateway deletions
-- Tamed Git weirdness and pushed code with full power
