@@ -1,6 +1,6 @@
 CloudTasker is a cloud-native CRUD application that allows you to manage employee records seamlessly using Spring Boot, Amazon RDS, and GitHub. Designed with DevOps in mind, it showcases real-world AWS resource handling, CI/CD readiness, and deployment flexibility.
 
-🚀 Tech Stack & Tools
+📌 Tech Stack & Tools
 | Category | Tool/Tech | 
 | Backend Framework | Spring Boot (Java) | 
 | Database | Amazon RDS (MySQL/Aurora) | 
@@ -16,7 +16,7 @@ CloudTasker is a cloud-native CRUD application that allows you to manage employe
 - IAM-managed permissions & secure AWS infrastructure setup
 - Structured package layout with Service, Repository, and Controller layers
 
-🧪 Endpoints Preview
+📌 Endpoints Preview
 | Method | Endpoint | Description | 
 | GET | /employees | Get all employees | 
 | GET | /employees/{id} | Get employee by ID | 
@@ -24,7 +24,7 @@ CloudTasker is a cloud-native CRUD application that allows you to manage employe
 | PUT | /employees/{id} | Update employee | 
 | DELETE | /employees/{id} | Delete employee | 
 
-🛠 Setup Instructions
+📌 Setup Instructions
 # Clone the repository
 git clone https://github.com/Dhineia/cloudtasker-employee-system.git
 
